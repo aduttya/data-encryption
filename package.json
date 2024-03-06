@@ -1,0 +1,12 @@
+{
+  "name": "decentralized_storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@lit-protocol/contracts-sdk": "^3.2.2",
+    "@lit-protocol/lit-node-client": "^3.2.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1"
+  }
+}
