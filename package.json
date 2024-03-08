@@ -2,11 +2,23 @@
   "name": "decentralized_storage",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "dependencies": {
+    "@alchemy/aa-accounts": "^3.4.0",
+    "@alchemy/aa-alchemy": "^3.4.1",
+    "@alchemy/aa-core": "^3.4.0",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@irys/query": "^0.0.4",
+    "@irys/sdk": "^0.1.15",
     "@lit-protocol/contracts-sdk": "^3.2.2",
     "@lit-protocol/lit-node-client": "^3.2.2",
+    "browserify": "^17.0.0",
+    "crypto": "^1.0.1",
     "dotenv": "^16.4.5",
-    "ethers": "^6.11.1"
+    "ethers": "^6.11.1",
+    "fs": "^0.0.1-security",
+    "viem": "^2.7.22"
   }
 }

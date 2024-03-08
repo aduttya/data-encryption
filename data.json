@@ -1,0 +1,17 @@
+{
+  "name": "John Doe",
+  "role": "Full Stack Developer",
+  "experience": [
+    {
+      "company": "Tech Corp",
+      "position": "Senior Developer",
+      "duration": "2019-2022"
+    },
+    {
+      "company": "Dev Solutions",
+      "position": "Junior Developer",
+      "duration": "2017-2019"
+    }
+  ],
+  "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"]
+}
